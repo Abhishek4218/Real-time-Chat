@@ -31,3 +31,7 @@ Alternatively, you can run the app directly without packaging it like so -
 ```bash
 mvn spring-boot:run
 ```
+Successfully Deployed
+Java + Spring Boot Realtime Chat App
+Render | Docker | WebSocket | 2025
+app link https://realtime-chat-99c8.onrender.com
